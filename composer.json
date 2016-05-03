@@ -1,4 +1,8 @@
 {
     "name": "aceougi/framework",
-    "type": "project"
+    "type": "project",
+    "require": {
+        "php": "^7.0",
+        "aceougi/package": "*"
+    }
 }
